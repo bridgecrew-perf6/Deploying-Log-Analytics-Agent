@@ -61,3 +61,29 @@
 <p/>
 
 
+# What is the Inventory section for Microsoft Defender for Cloud?
+- Inventory - gives you a view of the security posture of the resources that are being monitored.
+- You can view the recommendations from a resource point of view
+- You can also view alerts and installed applications from a resource perspective
+- Whereas on the overview, you get a list of all the recommendations for the Subscription
+
+
+# Microsoft Defender for Cloud - Workload Protection (Enhaced Security features under the Enhanced Plan)
+- File Integrity Monitoring -examines OS files, application software, Linux system files
+- Change tracking - log analytics agent sends data reporting the state of items on the machine
+- Files - can mention which files and folders to monitor
+- Cloud - can connect machines your AWS cloud environment
+- Applications - can create an whitelist applications
+- Identify - help identify any sort of potential malware, outdates or unauthorized applications
+- Groups - applications can be segregated into groups if they run similar types of applications
+- Rules - can define rules to configure how applications are managed
+
+
+# More features for workload protection
+- Network Security Groups - helps to harden the NSG rules
+- Identification - uses an internal machine learning algorithm to provide indicators on how to harden the NSG
+- Alerts - can get alerts if traffic flowing via the resource if not within the defined IP range
+
+
+
+
