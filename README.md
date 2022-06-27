@@ -51,3 +51,13 @@
 
 <p/>
 
+# Enable data collection by selecting "Common"
+- Now the virtual machines that are in your environment will send their data to the LAW 
+- Plus, Microsoft Defender will be able to collect those events and detect threats
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176025133-5973bd63-7cc4-4a3b-b9f1-6b31e5de6314.png" height="156%" width="155%" alt="Azure LAW"/>
+
+<p/>
+
+
