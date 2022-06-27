@@ -36,3 +36,18 @@
 
 <p/>
 
+
+# How to enable the collection of the different security-based events?
+- At the OS level, admins can view security events on Event Viewer - where it shows the different types of events from Windows Logs
+- It will tell you the event ID and the general details of the event itself.
+- When someone tries to log in, an event is generated at the OS level in the event viewer within the security windows log.
+- For Microsoft Defender for Cloud to view these events at the OS level for each virtual machine, it must be given the ability to collect the events.
+
+# How to direct all of the events collected to the LAW for MIcrosoft Defender for Cloud to look for threats?
+- Microsoft Defender for Cloud > Select LAW workspace created > Defender Plans > Enable Microsoft Defender for Cloud plans and is turned on for Servers and SQL servers
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176024642-cf5b01bd-df9c-4c2c-a695-57a111a77756.png" height="156%" width="155%" alt="Azure LAW"/>
+
+<p/>
+
